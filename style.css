@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1280px;
+    margin: auto;
+}
+
+.header1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 53px;
+}
+
+header div{
+        display: flex;
+        align-items: center;
+}
+header div h2{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #424242;
+
+}
+hr{
+    color: #DEDBDB;
+    margin-bottom: 46px;
+}
+.section2{
+    border: 1px solid #DEDBDB;
+    width: 650px;
+    height: 786px;
+    border-radius: 50px;
+    margin: 46px auto;
+}
+a{
+    text-decoration: none;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #F0400F;
+    margin-right: 10px;
+}
+
+.box{
+    display: flex;  
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 66px;
+    margin-bottom: 127px;
+}
+h1{
+    color: #0E0D5D;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-left: 64px;
+    margin-bottom: 79px;
+}
+h3{
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #757575;
+}
+.y{
+    color: #000000;
+
+}
+.ix{
+    width:533px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 64px;
+}
+.r{
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border-radius: 20px;
+    padding: 20px 51px;
+    border: solid 1px #75757530;
+    margin-top: 39px ;
+    margin-left: 64px;
+}
+.e{
+    color: #000000A3;
+    margin-top: 18px;
+    margin-left: 213px;
+    margin-bottom: 31px;
+
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+button{
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    background: #F69E86;
+    color: white;
+
+    border-radius: 20px;
+    padding: 17px 23px;
+    margin-left: 390px;
+}
